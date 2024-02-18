@@ -1,3 +1,8 @@
+#JRKAN直播（直连）
+host-suffix, jrkankan.com, DIRECT
+host-suffix, jrkan2022.com, DIRECT
+host-suffix, jrs23.com, DIRECT
+host-suffix, jrskk.com, DIRECT
 #玩偶哥哥（直连）
 host-suffix, wogg.link, DIRECT
 host-suffix, wogg.xyz, DIRECT
