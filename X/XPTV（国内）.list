@@ -3,10 +3,10 @@
 #[filter_remote]
 #https://raw.githubusercontent.com/fangkuia/XPTV/main/X/QuantumultX.list,tag=XPTV(国内),  update-interval=86400, opt-parser=true, enabled=true
 #JRKAN直播（直连）
-DOMAIN-SUFFIX, jrkankan.com, DIRECT
-DOMAIN-SUFFIX, jrkan2022.com, DIRECT
-DOMAIN-SUFFIX, jrs23.com, DIRECT
-DOMAIN-SUFFIX, jrskk.com, DIRECT
+host-SUFFIX, jrkankan.com, DIRECT
+host-SUFFIX, jrkan2022.com, DIRECT
+host-SUFFIX, jrs23.com, DIRECT
+host-SUFFIX, jrskk.com, DIRECT
 #玩偶哥哥（直连）
 host-suffix, wogg.link, DIRECT
 host-suffix, wogg.xyz, DIRECT
