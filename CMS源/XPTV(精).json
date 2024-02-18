@@ -4,6 +4,5 @@
 	  {"key":"csp_Bdys","name":"🟢哔嘀影视","type":3,"api":"csp_Bdys","searchable":1,"quickSearch":1,"filterable":1},
 	  {"key": "Olevod", "name": "🟢欧乐影院", "type": 3, "api": "csp_Olevod", "searchable": 1, "quickSearch": 1, "filterable": 1},
 	  {"key":"csp_Zxzj","name":"🟢在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.zxzja.com/"},
-	  {"key":"csp_JRKAN","name":"JRKAN直播","type":3,"api":"csp_JRKAN","searchable":0,"quickSearch":0,"changeable":1,"ext":"http://www.jrkankan.com/?lan=1"},
 	  {"key":"BuLei","name":"⚡布雷","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://饭太硬.ga/$$$auto$$$sdlw1111$$$qqaa1122"},
 	 ]}
