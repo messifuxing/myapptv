@@ -1,4 +1,9 @@
 payload:
+#JRKAN直播（直连）
+  - DOMAIN-SUFFIX,www.jrkankan.com
+  - DOMAIN-SUFFIX,www.jrkan2022.com
+  - DOMAIN-SUFFIX,www.jrs23.com
+  - DOMAIN-SUFFIX,www.jrskk.com
 #玩偶哥哥（直连）
   - DOMAIN-SUFFIX,wogg.link
   - DOMAIN-SUFFIX,wogg.xyz
