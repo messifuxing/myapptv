@@ -1,10 +1,10 @@
 [Rule]
 #将以下内容复制粘贴到[Rule]下即可
 #JRKAN直播（直连）
-DOMAIN-SUFFIX,www.jrkankan.com, DIRECT
-DOMAIN-SUFFIX,www.jrkan2022.com, DIRECT
-DOMAIN-SUFFIX,www.jrs23.com, DIRECT
-DOMAIN-SUFFIX,www.jrskk.com, DIRECT
+DOMAIN-SUFFIX,jrkankan.com, DIRECT
+DOMAIN-SUFFIX,jrkan2022.com, DIRECT
+DOMAIN-SUFFIX,jrs23.com, DIRECT
+DOMAIN-SUFFIX,jrskk.com, DIRECT
 #玩偶哥哥（直连）
 DOMAIN-SUFFIX, wogg.link, DIRECT
 DOMAIN-SUFFIX, wogg.xyz, DIRECT
